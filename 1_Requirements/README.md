@@ -7,3 +7,11 @@
 + Bulb A rounded underground storage organ present in some plants, notably those of the lily family, consisting of a short stem surrounded by fleshy scale leaves or leaf bases, lying dormant over winter
 
 + Voltmeter Voltmeter which is also known as voltage meter is an instrument that measures the voltage or potential difference among two points of an electronic or electrical circuit. Usually, the voltmeter is used for Alternating Current (AC) circuits or Direct Current (DC) circuits. Alternatively, Radio Frequency (RF) voltage can also be measured by specialized voltmeters.
+
+## Advantages
+
++ It helps in securing home from theft Its will be cheaper can be installed in every room so as anyone enter the light turns on automatically it can be replaced with siren saves electricity.
+
+## Disadavntages 
+
++ It can be irritating as light turns on everytime in night when someone enter except theif.
